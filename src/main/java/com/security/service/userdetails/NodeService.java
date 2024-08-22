@@ -58,7 +58,7 @@ public class NodeService {
         Node root = new Node("父节点");
         Node child1 = new Node("子节点1");
         Node child2 = new Node("子节点2");
-        Node subChild1 = new Node("下级子节点1");
+        Node subChild1 = new Node("下级子节点11561565615615");
         Node subChild2 = new Node("下级子节点2");
         Node subChild3 = new Node("子节点3");
 
