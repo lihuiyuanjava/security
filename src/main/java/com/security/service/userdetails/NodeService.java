@@ -59,7 +59,7 @@ public class NodeService {
         Node child1 = new Node("子节点1");
         Node child2 = new Node("子节点2");
         Node subChild1 = new Node("下级子节点11561565615615");
-        Node subChild2 = new Node("下级子节点2");
+        Node subChild2 = new Node("下级子节点211111");
         Node subChild3 = new Node("子节点3");
 
         // 构建树形结构
